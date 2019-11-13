@@ -1,0 +1,16 @@
+operation\UIOperation.class
+pagefactory\Guru99Login.class
+pagefactory\KatalonStartPage.class
+pagefactory\MakeAppointment.class
+operation\ReadObject.class
+pagefactory\KatalonLoginPage$2.class
+pages\Guru99Login.class
+pagefactory\KatalonLoginPage.class
+pagefactory\MakeAppointment$1.class
+pages\Guru99HomePage.class
+pagefactory\KatalonLoginPage$1.class
+pagefactory\KatalonStartPage$1.class
+pagefactory\Guru99HomePage.class
+excelExportAndFileIO\ReadGuru99ExcelFile.class
+pagefactory\KatalonStartPage$2.class
+pagefactory\MakeAppointment$2.class
